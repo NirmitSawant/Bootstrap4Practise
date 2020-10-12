@@ -27,5 +27,5 @@ _Pages UI to move from one page to another._
 _Responsive Navbar for adjusting to button on small devices._
 9. [Jumbotron](https://github.com/NirmitSawant/LearningBootstrap4/blob/master/jumotron.html)
 _A good look home page to display your landing page._
-10. [Carousel]()
-_33 line coded easiest Carousel._
+10. [Carousel](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/carousel.html)
+_Very Simple and Easy Carousel._
