@@ -29,3 +29,5 @@ _Responsive Navbar for adjusting to button on small devices._
 _A good look home page to display your landing page._
 10. [Carousel](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/carousel.html)
 _Very Simple and Easy Carousel._
+
+## I will try to update this until I am learning and dont start working on the actual project.
