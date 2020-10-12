@@ -25,3 +25,5 @@ _Card Class Feature._
 _Pages UI to move from one page to another._
 8. [Navbar](https://github.com/NirmitSawant/LearningBootstrap4/blob/master/responsivenavbar.html)
 _Responsive Navbar for adjusting to button on small devices._
+9. [Jumbotron](https://github.com/NirmitSawant/LearningBootstrap4/blob/master/jumotron.html)
+_A good look home page to display your landing page._
