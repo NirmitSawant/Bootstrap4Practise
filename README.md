@@ -31,7 +31,7 @@ _A good look home page to display your landing page._
 _Very Simple and Easy Carousel._
 11. [Dropdown](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/dropdown.html)
 _Dropdown in NavbarMenu and also to implement other various._
-12. [Modal]()
+12. [Modal](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/modal.html)
 _Seperate models (just like seperate page)for login and Signup to use._
 
 ## Contributions:
