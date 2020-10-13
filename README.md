@@ -30,4 +30,8 @@ _A good look home page to display your landing page._
 10. [Carousel](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/carousel.html)
 _Very Simple and Easy Carousel._
 
+## Contributions:
+You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
+Just try to keep the file named after the feature. Keep it simple and happy contributing!
+
 _I will try to update this until I am learning and dont start working on the actual project._
