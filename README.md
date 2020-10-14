@@ -33,13 +33,11 @@ _Very Simple and Easy Carousel._
 _Dropdown in NavbarMenu and also to implement other various._
 12. [Modal](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/modal.html)
 _Seperate models (just like seperate page)for login and Signup to use._
-<<<<<<< HEAD
-13. [List Groups]()
-_Very Useful to represent list and group it in a very nice way._
-=======
 13. [Progress Bar Animated](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/progressbar.html)
 _You all like to know your progress bootstrap makes it easier._
->>>>>>> d613ffd765ef433de709d025ae64f6d3f3dc17a2
+14. [List Groups](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/listgroups.html)
+_Very Useful to represent list and group it in a very nice way._
+
 
 ## Contributions:
 You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
