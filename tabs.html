@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabs</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    
+    <div class="container">
+        <br><br>
+        <ul class="nav-tabs nav nav-justified">   
+            <li class="nav-item">
+                <a href="#home" class="nav-link" data-toggle="tab">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="#notification" class="nav-link dropdown-toggle" data-toggle="tab">Notification</a>
+            </li>
+            <li class="nav-item">
+                <a href="#mes" class="nav-link" data-toggle="tab">Profile</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link disabled" >Logout</a>
+            </li>
+        </ul>
+
+        <div class="tab-content container">
+            <div class="tab-pane" id="home">
+                <br>
+                <h1 class="text-white bg-dark">This is HOME PAGE</h1>
+                Hello hello NotOP  
+            </div>
+
+            <div class="tab-pane" id="notification">
+                <br>
+                <h1 class="text-white bg-danger">This is Notifications PAGE</h1>
+                Hello hello NotOP  
+            </div>
+
+            <div class="tab-pane" id="mes">
+                <br>
+                <h1 class="text-white bg-primary">This is Profile PAGE</h1>
+                Hello hello NotOP  
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

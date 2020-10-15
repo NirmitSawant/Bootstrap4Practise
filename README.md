@@ -46,6 +46,8 @@ _Badges to show off._
 _Various Types of Buttons and creative ways to represent them. Also, Bonus Buttons Groups are introduced._
 17. [Toasts](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/toasts.html)
 _Toasts are a way to alert and inform user._
+18.[Tabs]()
+_Tabs in Bootstrap to provide the best looking distinguished sections on the same page._
 
 ## Contributions:
 You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
