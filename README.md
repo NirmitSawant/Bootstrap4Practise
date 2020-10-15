@@ -42,7 +42,7 @@ _You all like to know your progress bootstrap makes it easier._
 _Very Useful to represent list and group it in a very nice way._
 15. [Badge](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/badge.html)
 _Badges to show off._
-16. [Buttons]()
+16. [Buttons](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/buttons.html)
 _Various Types of Buttons and creative ways to represent them._
 
 ## Contributions:
