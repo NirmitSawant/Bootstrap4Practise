@@ -44,6 +44,8 @@ _Very Useful to represent list and group it in a very nice way._
 _Badges to show off._
 16. [Buttons](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/buttons.html)
 _Various Types of Buttons and creative ways to represent them._
+17. [Toasts](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/toasts.html)
+_Toasts are a way to alert and inform user._
 
 ## Contributions:
 You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
