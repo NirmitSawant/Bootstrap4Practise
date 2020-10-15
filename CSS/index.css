@@ -39,7 +39,7 @@
   height: 90vh;
   text-align: center;
   margin-top: 40px;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(0, 0, 0, 0.5));
+  background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(123, 48, 133, 0.5));
   background-size: 100% 100%;
   clip-path: polygon(0 0, 100% 0, 100% 75%, 50% 100%, 50% 100%, 0 75%);
 }
