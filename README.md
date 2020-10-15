@@ -37,7 +37,7 @@ _Seperate models (just like seperate page)for login and Signup to use._
 _You all like to know your progress bootstrap makes it easier._
 14. [List Groups](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/listgroups.html)
 _Very Useful to represent list and group it in a very nice way._
-15. [Badge]()
+15. [Badge](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/badge.html)
 _Badges to show off._
 
 ## Contributions:
