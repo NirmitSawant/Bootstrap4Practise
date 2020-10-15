@@ -48,7 +48,7 @@ _Various Types of Buttons and creative ways to represent them. Also, Bonus Butto
 _Toasts are a way to alert and inform user about a new feature or completion or updates._
 18. [Tabs](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/tabs.html)
 _Tabs in Bootstrap to provide the best looking distinguished sections on the same page._
-19. [Pills]()
+19. [Pills](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/pills.html)
 _Better version of Tabs with button look like._
 
 ## Contributions:
