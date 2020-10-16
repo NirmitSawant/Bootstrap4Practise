@@ -2,7 +2,7 @@
 Attempt to learn Bootstrap-4 for my class project.
 
 ## What to expect?
-_This isnt best Bootstrap code, if you are trying to find but simple modules for you to use in your code._
+_This isnt best Bootstrap code, if you are trying to find but a simple modules to use in your code._
 _Just sharing modules so that you can use to develop a full fledged project._
 
 ## Where did I learn this?
@@ -50,7 +50,8 @@ _Toasts are a way to alert and inform user about a new feature or completion or 
 _Tabs in Bootstrap to provide the best looking distinguished sections on the same page._
 19. [Pills](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/pills.html)
 _Better version of Tabs with button look like._
-
+20. [Tooltips]()
+_Better way to represent link title._
 ## Contributions:
 You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
 Just try to keep the file named after the feature. Keep it simple and happy contributing!
