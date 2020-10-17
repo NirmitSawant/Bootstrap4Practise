@@ -52,6 +52,9 @@ _Tabs in Bootstrap to provide the best looking distinguished sections on the sam
 _Better version of Tabs with button look like._
 20. [Tooltips](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/tooltips.html)
 _Better way to represent link title._
+21. [Popover]()
+_ToolTips with better UI feels._
+
 ## Contributions:
 You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
 Just try to keep the file named after the feature. Keep it simple and happy contributing!
