@@ -55,12 +55,12 @@
 
 .header-buttons a{
   border: 1px solid #000;
-  border-radius: 100px;
+  border-radius: 5px;
   margin: 10px 20px;
   padding: 12px 30px;
   outline: none;
   color: rgb(255, 255, 255);
-  background-color: #553C7B;
+  background-color: #12122e;
 
 }
 
