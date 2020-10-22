@@ -1,17 +1,22 @@
 # Learning Bootstrap-4(Code for Noobs)
+
 Attempt to learn Bootstrap-4 for my class project.
 
 ## What to expect?
+
 _This isnt best Bootstrap code, if you are trying to find but a simple modules to use in your code._
 _Just sharing modules so that you can use to develop a full fledged project._
 
 ## Where did I learn this?
+
 Shoutout to [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA)
 
 ## Where can I find all of this content at one page?
+
 [@surelyanushka](https://github.com/surelyanushka) has made a superb [index.html](https://github.com/NirmitSawant/Bootstrap4Practise/blob/master/index.html) for you all to refer the below contents at one click.
 
 ## Contents:
+
 1. [Typography](https://github.com/NirmitSawant/LearningBootstrap4/blob/master/typography.html)
 _More ways to represent your text and subjects in better way. Annotations and a lot..._
 2. [Grid System](https://github.com/NirmitSawant/LearningBootstrap4/blob/master/gridsys.html)
@@ -56,8 +61,10 @@ _Better way to represent link title._
 _ToolTips with better UI feels._
 
 ## Contributions:
-You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones. 
+
+You can add your own modules or created Bootstrap4 snippets. I will merge or provide labels to good ones.
 Just try to keep the file named after the feature. Keep it simple and happy contributing!
 
 ## Disclaimer:
+
 _I will try to update this until I am learning and dont start working on the actual project._
