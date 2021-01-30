@@ -8,42 +8,73 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <style>
+        body{ 
+		padding:0% 3% 10% 3%; 
+		} 
+	
+		button{ 
+			cursor: pointer; 
+			border: 1px solid #555; 
+			text-align: center; 
+			padding: 5px; 
+			margin-left: 8px; 
+		} 
+		.dark{ 
+			background-color: #222; 
+			color: #e6e6e6; 
+		} 
+    </style>
 </head>
-<body>
+<body> 
     <div class="container">
-        <div class="row">
-            <div class="col-xl-4 bg-success">
-                COL XL 4
-            </div>
-            <div class="col-xl-4 bg-primary">
-                COL XL 4
-            </div>
-            <div class="col-xl-4 bg-success">
-                COL XL 4
-            </div>
-        </div> <br>
-        <div class="row">
-            <div class="col-xl-4 col-lg-4 bg-success">
-                COL XL 4
-            </div>
-            <div class="col-xl-4 col-lg-4 bg-primary">
-                COL XL 4
-            </div>
-            <div class="col-xl-4 col-lg-4 bg-success">
-                COL XL 4
-            </div>
-        </div> <br>
-        <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-4 bg-success">
-                COL XL 4
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-4 bg-primary">
-                COL XL 4
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-4 bg-success">
-                COL XL 4
+    <div class="col-l-4">
+        <button class="float-right" onclick="myFunction()">Switch mode</button> 
+        <br><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4 bg-success">
+                    COL XL 4
+                </div>
+                <div class="col-xl-4 bg-primary">
+                    COL XL 4
+                </div>
+                <div class="col-xl-4 bg-success">
+                    COL XL 4
+                </div>
+            </div> <br>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 bg-success">
+                    COL XL 4
+                </div>
+                <div class="col-xl-4 col-lg-4 bg-primary">
+                    COL XL 4
+                </div>
+                <div class="col-xl-4 col-lg-4 bg-success">
+                    COL XL 4
+                </div>
+            </div> <br>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-4 bg-success">
+                    COL XL 4
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 bg-primary">
+                    COL XL 4
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 bg-success">
+                    COL XL 4
+                </div>
             </div>
         </div>
     </div>
+    </div>       
+    
+    
+    <script> 
+		function myFunction() { 
+		var element = document.body; 
+		element.classList.toggle("dark"); 
+		} 
+	</script> 
 </body>
 </html>
